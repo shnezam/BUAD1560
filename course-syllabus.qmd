@@ -1,5 +1,5 @@
 ---
-title: "Syllabus - Statistical Methods - Spring 2025"
+title: "Syllabus - Modern Elementary Statistics - Fall 2025"
 format: 
   html: default
   pdf: default
@@ -7,10 +7,10 @@ format:
 
 ## Course Information
 
-**Course Title:** MATH 4720/MSSC 5720: Statistical Methods\
+**Course Title:** MATH 1700: Modern Elementary Statistics\
 **Meeting Time:** TuTh 11:00am - 12:15pm\
-**Location:** Olin Engineering 278 (Microsoft Teams)\
-**Website:** <http://tinyurl.com/Stat-Meth>
+**Location:** CU 001\
+**Website:** <http://tinyurl.com/MoElstat-f25>
 
 ## Instructor Details
 
