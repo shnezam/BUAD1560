@@ -1,0 +1,16 @@
+---
+title: "Course overview"
+---
+
+This is the homepage for MATH 4720 (MSSC 5720) - Statistical Methods by [Dr. Mehdi Maadooliat](www.mssc.mu.edu/~mehdi) in Spring 2025 at Marquette University. All course materials will be posted on this site.
+
+You can find the course syllabus [here](/course-syllabus.html) and the course schedule [here](/).
+
+## Class meetings
+
+| Meeting      | Location             | Time                           |
+|--------------|----------------------|--------------------------------|
+| Lecture      | Olin Engineering 278 | Tue & Thur 11:00 am - 12:15 pm |
+| Office Hours | CU 351               | Tue & Thur 12:25 - 1:55 pm     |
+
+![](images/twitter-card.png)
