@@ -10,7 +10,7 @@ format:
 **Course Title:** MATH 1700: Modern Elementary Statistics\
 **Meeting Time:** TuTh 11:00am - 12:15pm\
 **Location:** CU 001\
-**Website:** <http://tinyurl.com/MoElstat-f25>
+**Website:** <http://tinyurl.com/MoElstat>
 
 ## Instructor Details
 
