@@ -39,7 +39,7 @@ website:
         contents:
           - href: course-overview.qmd
             text: Overview
-          - href: course-syllabus.qmd
+          - href: course-syllabus.pdf
             text: Syllabus
           - href: index.qmd
             text: Schedule
