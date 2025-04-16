@@ -4,13 +4,13 @@ title: "Course overview"
 
 This is the homepage for MATH 1700 - Modern Elementary Statistics by [Dr. Mehdi Maadooliat](www.mssc.mu.edu/~mehdi) in Fall 2025 at Marquette University. All course materials will be posted on this site.
 
-You can find the course syllabus [here](/course-syllabus.html) and the course schedule [here](/).
+You can find the course syllabus [here](/course-syllabus.pdf) and the course schedule [here](/).
 
 ## Class meetings
 
-| Meeting      | Location | Time                           |
-|--------------|----------|--------------------------------|
-| Lecture      | CU 001   | Tue & Thur 11:00 am - 12:15 pm |
-| Office Hours | CU 351   | Tue & Thur 12:25 - 1:55 pm     |
+| Meeting      | Location                       | Time                           |
+|--------------|--------------------------------|--------------------------------|
+| Lecture      | CU 001                         | Tue & Thur 11:00 am - 12:15 pm |
+| Office Hours | T: CU 351 & Th: Stat Help Desk | Tue & Thur 12:15 - 1:30 pm     |
 
 ![](images/twitter-card.png)
