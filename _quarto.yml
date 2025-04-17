@@ -5,7 +5,7 @@ website:
   page-navigation: true
   title: "MATH 1700"
   description: "Homepage for 'Modern Elementary Statistics' at Marquette University, Fall 2025."
-  site-url: "https://tinyurl.com/MoElstat"
+  site-url: "https://tinyurl.com/MoEl-Stat"
 
   repo-url: https://github.com/mmadoliat/MoElstat-f25/
   repo-actions: [edit, issue]
@@ -25,7 +25,7 @@ website:
         href: https://github.com/mmadoliat/MoElstat-f25/
         text: "GitHub organization"
       - icon: code-square
-        href: https://tinyurl.com/MoElstat
+        href: https://tinyurl.com/MoEl-Stat
         text: "TinyURL"
       - icon: person-fill
         href: https://d2l.mu.edu/
