@@ -28,8 +28,8 @@ website:
         href: https://tinyurl.com/MoEl-Stat
         text: "TinyURL"
       - icon: person-fill
-        href: https://d2l.mu.edu/
-        text: "D2L"
+        href: https://www.webassign.net/
+        text: "WebAssign"
 
     style: docked
     search: true

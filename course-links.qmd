@@ -3,7 +3,7 @@ title: "Useful links"
 ---
 
 +----------------------------+-----------------------------------------------------------------------------+
-| Homework                   | 🔗 on [D2L](http://www.webassign.net/)                                      |
+| Homework                   | 🔗 on [WebAssign](http://www.webassign.net/)                                |
 |                            |                                                                             |
 | TI-84 Guideline            | 🔗 Download [here](/computing/TI-84-guidebook.pdf)                          |
 |                            |                                                                             |
