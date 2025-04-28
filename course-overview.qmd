@@ -8,16 +8,9 @@ You can find the course syllabus [here](/course-syllabus.html) and the course sc
 
 ## Class meetings
 
-+--------------+--------------+-------------------------------+
-| Meeting      | Location     | Time                          |
-+==============+==============+===============================+
-| Lecture      | O'Brien Hall | Tue & Thur 12:00 pm - 1:15 pm |
-|              |              |                               |
-|              | 205          |                               |
-+--------------+--------------+-------------------------------+
-| Office Hours | O'Brien Hall | Tue & Thur 1:30 pm - 2:30 pm  |
-|              |              |                               |
-|              | 001          |                               |
-+--------------+--------------+-------------------------------+
+| Meeting      | Location         | Time                          |
+|--------------|------------------|-------------------------------|
+| Lecture      | O'Brien Hall 205 | Tue & Thur 12:00 pm - 1:15 pm |
+| Office Hours | O'Brien Hall 001 | Tue & Thur 1:30 pm - 2:30 pm  |
 
 ![](images/twitter-card.png)
