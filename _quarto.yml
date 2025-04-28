@@ -4,15 +4,15 @@ project:
 website:
   page-navigation: true
   title: "BUAD 1560"
-  description: "Homepage for 'Modern Elementary Statistics' at Marquette University, Fall 2025."
-  site-url: "https://tinyurl.com/MoEl-Stat"
+  description: "Homepage for 'Introduction to Statistics and Business Analytics' at Marquette University, Fall 2025."
+  site-url: "https://tinyurl.com/BUAD1560"
 
-  repo-url: https://github.com/mmadoliat/MoElstat-f25/
+  repo-url: https://github.com/shnezam/BUAD1560/
   repo-actions: [edit, issue]
 
   open-graph: true
   twitter-card:
-    creator: "@mmadoliat"
+    creator: "@shnezam"
     image: "images/twitter-card.png"
 
   sidebar:
@@ -22,14 +22,14 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/mmadoliat/MoElstat-f25/
+        href: https://github.com/shnezam/BUAD1560/
         text: "GitHub organization"
       - icon: code-square
-        href: https://tinyurl.com/MoEl-Stat
+        href: https://tinyurl.com/BUAD1560
         text: "TinyURL"
       - icon: person-fill
-        href: https://www.webassign.net/
-        text: "WebAssign"
+        href: https://d2l.mu.edu/
+        text: "D2L"
 
     style: docked
     search: true
@@ -39,20 +39,15 @@ website:
         contents:
           - href: course-overview.qmd
             text: Overview
-          - href: course-syllabus.pdf
+          - href: course-syllabus.qmd
             text: Syllabus
           - href: index.qmd
             text: Schedule
           - href: course-links.qmd
             text: Useful links
-      - section: "Computing"
-        contents:
-          - href: computing/computing-cheatsheets.qmd
-            text: Cheatsheets
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; Copyright 2025, Mehdi Maadooliat"
     background: "#FFCC00" # Arylide Yellow
     
 format:

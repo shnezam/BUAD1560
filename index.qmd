@@ -1,10 +1,10 @@
 ---
-title: "Modern Elementary Statistics - Fall 2025"
+title: "Introduction to Statistics and Business Analytics  - Fall 2025"
 execute: 
   freeze: false
 ---
 
-This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses, and the timeline of topics and assignments might be updated throughout the semester.
+This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.
 
 ```{r}
 #| echo: false
@@ -14,7 +14,7 @@ library(googlesheets4)
 library(gt)
 library(tidyverse)
 gs4_deauth()
-d <- read_sheet("https://docs.google.com/spreadsheets/d/1pMBteu_IfoT6QcZU2QrG1VVqIheCc5uXb1zgwJIRfM8/edit?usp=sharing")
+d <- read_sheet("https://docs.google.com/spreadsheets/d/1io528KxyN12k4i3a5VkS9WrlNb-AHsekmvX4nnFo0hQ/edit?usp=sharing")
 ```
 
 ```{r}
