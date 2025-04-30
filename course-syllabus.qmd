@@ -24,7 +24,7 @@ Introduction to statistical and business analytic methods used in the analysis o
 
 ## Prerequisites
 
--    [[MATH 1400](https://bulletin.marquette.edu/search/?P=MATH%201400 "MATH 1400") or [MATH 1450](https://bulletin.marquette.edu/search/?P=MATH%201450 "MATH 1450"); [BUAD 1060](https://bulletin.marquette.edu/search/?P=BUAD%201060 "BUAD 1060"), which may be taken concurrently or exemption.]{.underline}  
+-   MATH 1400, or MATH 1450: BUAD 1060
 
 ## Textbook
 
@@ -70,7 +70,7 @@ Homework is required for a better understanding of the material and must be subm
 
 ## Attendance Policy
 
-Attendance is required, and the [College of Business Administration](https://www.marquette.edu/business/) will be observed.
+Attendance is required, and the College of Business Administration will be observed.
 
 ## Make-up Policy
 
