@@ -1,5 +1,38 @@
 [
   {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Course overview",
+    "section": "",
+    "text": "This is the homepage for BUAD 1560 - Introduction to Statistics and Business Analytics by Dr. Shirin Nezampour in Fall 2025 at Marquette University. All course materials will be posted on this site.\nYou can find the course syllabus here and the course schedule here.",
+    "crumbs": [
+      "Course information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "course-overview.html#class-meetings",
+    "href": "course-overview.html#class-meetings",
+    "title": "Course overview",
+    "section": "Class meetings",
+    "text": "Class meetings\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nLecture\nO’Brien Hall 205\nTue & Thur 12:00 pm - 1:15 pm\n\n\nOffice Hours\nO’Brien Hall 001\nTue & Thur 1:30 pm - 2:30 pm",
+    "crumbs": [
+      "Course information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Statistics and Business Analytics - Fall 2025",
+    "section": "",
+    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nTOPIC\nMATERIALS\nDUE\n\n\n\n\n8\nTue, Nov 18\nTest for mean, two dependent population\n\n\n\n\n\n\n\n\nThu, Nov 20\nTest for Variance\n\n\n\n\n\n\n\n\nFri, Nov 21\n📃8th week Summary\n\n\n\n\n\n\n9\nTue, Nov 25\nAnalysis of Variance (ANOVA)\n💻Chapt 13\n\n\n\n\n\n\nThu, Nov 27\n\n\n\n\n\n\n\n\n\n\nFri, Nov 28",
+    "crumbs": [
+      "Course information",
+      "Schedule"
+    ]
+  },
+  {
     "objectID": "course-syllabus.html",
     "href": "course-syllabus.html",
     "title": "Syllabus - Introduction to statistics and business analytics - Fall 2025",
@@ -132,51 +165,11 @@
     ]
   },
   {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "Course overview",
-    "section": "",
-    "text": "This is the homepage for BUAD 1560 - Introduction to Statistics and Business Analytics by Dr. Shirin Nezampour in Fall 2025 at Marquette University. All course materials will be posted on this site.\nYou can find the course syllabus here and the course schedule here.",
-    "crumbs": [
-      "Course information",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "course-overview.html#class-meetings",
-    "href": "course-overview.html#class-meetings",
-    "title": "Course overview",
-    "section": "Class meetings",
-    "text": "Class meetings\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nLecture\nO’Brien Hall 205\nTue & Thur 12:00 pm - 1:15 pm\n\n\nOffice Hours\nO’Brien Hall 001\nTue & Thur 1:30 pm - 2:30 pm",
-    "crumbs": [
-      "Course information",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site!"
-  },
-  {
     "objectID": "computing/computing-cheatsheets.html",
     "href": "computing/computing-cheatsheets.html",
     "title": "R cheatsheets",
     "section": "",
     "text": "The following cheatsheets come from https://posit.co/resources/cheatsheets. We haven’t covered every function and functionality listed on them, but you might still find them useful as references."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction to Statistics and Business Analytics - Fall 2025",
-    "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nTOPIC\nMATERIALS\nDUE\n\n\n\n\n8\nTue, Nov 18\nTest for mean, two dependent population\n\n\n\n\n\n\n\n\nThu, Nov 20\nTest for Variance\n\n\n\n\n\n\n\n\nFri, Nov 21\n📃8th week Summary\n\n\n\n\n\n\n9\nTue, Nov 25\nAnalysis of Variance (ANOVA)\n💻Chapt 13\n\n\n\n\n\n\nThu, Nov 27\n\n\n\n\n\n\n\n\n\n\nFri, Nov 28",
-    "crumbs": [
-      "Course information",
-      "Schedule"
-    ]
   },
   {
     "objectID": "course-links.html",
@@ -188,5 +181,12 @@
       "Course information",
       "Useful links"
     ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site!"
   }
 ]
